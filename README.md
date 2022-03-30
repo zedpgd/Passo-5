@@ -1,7 +1,7 @@
 # Passo-5
 
 <html>
-<title> Pauta fotográfica da turma </title>
+Pauta fotográfica da turma
 
 <table border="2">
    <tr>
